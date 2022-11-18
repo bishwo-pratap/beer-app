@@ -1,0 +1,29 @@
+.tagline {
+  color: coral;
+}
+
+.description {
+  color: black;
+}
+
+.beer-list:hover {
+  cursor: pointer;
+  background-color: rgb(221, 231, 252);
+}
+
+.chev {
+  font-weight: bold;
+  cursor: pointer;
+  color: #8ab4f8;
+}
+
+.chev:hover {
+  cursor: pointer;
+  color: #8ab4f8;
+  text-decoration: underline;
+}
+
+.my-beers {
+  background-color: #bfcbde;
+  min-height: 500px;
+}

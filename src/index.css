@@ -1,0 +1,63 @@
+.home-tab {
+  border-bottom-color: transparent !important;
+}
+.home-tab .nav-link {
+  border-radius: 0;
+  border-color: transparent !important;
+  font-weight: 600;
+  color: #777;
+  padding: 0;
+  font-size: 1rem;
+  line-height: 1;
+}
+.home-tab .nav-item:not(:first-child) {
+  margin-left: 1rem;
+}
+.home-tab .nav-link.active {
+  border-color: transparent;
+  color: #222;
+}
+.home-tab .nav-link:focus,
+.home-tab .nav-link:hover {
+  border-color: transparent;
+  color: #222;
+}
+.beer__img {
+  height: 150px !important;
+  width: auto;
+}
+.tagline {
+  color: coral;
+}
+.description {
+  color: black;
+}
+.beer-list {
+  transition: background-color 200ms ease-in-out;
+}
+.beer-list:hover {
+  cursor: pointer;
+  background-color: rgb(221, 231, 252);
+}
+.chev {
+  font-weight: 600;
+  cursor: pointer;
+  color: #8ab4f8;
+}
+.chev:hover {
+  text-decoration: underline;
+}
+.my-beers {
+  background-color: #bfcbde;
+  min-height: 500px;
+}
+.btn {
+  border-radius: 0em !important;
+}
+.beer-display {
+  border-radius: 10px;
+  border: 2px solid #777;
+}
+.modal-footer {
+  border-top: 0 !important;
+}
