@@ -6,9 +6,13 @@ Simple Beer List Rendering Application
 
 In the project directory, you can need to carry out following steps set up and run the application:
 
-### `npm i`
+### Install Dependencies
 
-### `npm start`
+`npm i`
+
+### Start Development Server
+
+`npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
